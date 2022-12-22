@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20221222-125736" />
+    <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.1.0-CI-20221222-133159" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\images\avatars\" />
